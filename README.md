@@ -2,4 +2,4 @@
 
 KAIST SoC
 
-jkkms0127@gmail.com
+- email : jkkms0127@gmail.com
